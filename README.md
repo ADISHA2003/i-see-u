@@ -16,7 +16,7 @@ To view the website in action:
 
 1. Clone the repository.
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ADISHA2003/3D-GazeTracker.git
    ```
 2. Open the `index.html` file in a web browser.
 
