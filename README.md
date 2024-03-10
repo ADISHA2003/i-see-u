@@ -19,7 +19,3 @@ To view the website in action:
    git clone https://github.com/ADISHA2003/3D-GazeTracker.git
    ```
 2. Open the `index.html` file in a web browser.
-
----
-
-Feel free to customize it further to fit your specific project details and preferences.
