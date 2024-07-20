@@ -22,7 +22,7 @@ body {
     height: 50px;
     background-color: #fff;
     border-radius: 50%;
-    border-top: 3px solid black;
+    border-top: 4px solid black;
     position: absolute;
     top: 0;
     display: flex;
